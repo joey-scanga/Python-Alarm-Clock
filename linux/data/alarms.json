@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "alarmTitle": "Tuesday",
+            "alarmTime": "12:00:00",
+            "alertMethod": "screensound",
+            "intervals": [
+                {
+                    "alarmTime": "12:05:00",
+                    "alertType": "screensound"
+                },
+                {
+                    "alarmTime": "12:10:00",
+                    "alertType": "screensound"
+                }
+            ]
+        }
+    ]
+}

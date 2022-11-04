@@ -1,0 +1,10 @@
+{
+    "installdir": "~/Programs/CursedAlarm/linux",
+    "sounds": {
+        "sound1": "path",
+        "sound2": "path",
+        "sound3": "path"
+    },
+    "currentsound": "path"
+    
+}
